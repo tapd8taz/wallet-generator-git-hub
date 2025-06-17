@@ -219,4 +219,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update: Resolved dead links in migration guide
+
+
+Update: url is live and functioning properly
